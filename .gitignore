@@ -416,3 +416,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Project Specific 
+/data/
+/checkpoints/
+/logs/
+/output/
+*.gif
+*.png
+
